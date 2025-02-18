@@ -1,2 +1,2 @@
-# 22DKubistaT-git1
-22DKubistaT-git1
+# Můj Git projekt
+Tento projekt slouží k procvičení základních operací s Gitem.
